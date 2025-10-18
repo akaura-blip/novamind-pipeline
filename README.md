@@ -112,3 +112,13 @@ novamind-pipeline/
 ### 8. Takeaway
 This project combines creative strategy with analytical thinking to show how marketing content can scale intelligently.  
 It reflects how a Content and Growth Analyst can design systems that learn from performance, improve with every cycle, and keep the message authentic at every step.
+
+---
+
+### 9. How to Explore
+- **Start with `/content/2025-10-18/`** to see the AI-generated blog and newsletters.  
+- **Open `/crm/`** to view the simulated CRM send payloads.  
+- **Check `/metrics/`** for campaign results and insights.  
+- **Read this `README.md`** for the full system logic and design context.  
+
+Clone or download the repo to explore locally. All files can be opened directly in Finder or VSCode.

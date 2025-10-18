@@ -1,4 +1,5 @@
 # NovaMind AI Content Pipeline
+*An AI-powered workflow that creates, distributes, and learns from marketing content.*
 
 ### Overview
 This project shows how an AI-driven marketing workflow can run almost on its own.  
@@ -77,17 +78,25 @@ novamind-pipeline/
 ---
 
 ### 5. Tools and Assumptions
-- **AI Generation:** Simulated using GPT-style logic and prompts  
-- **CRM Integration:** Mocked with realistic HubSpot API structures  
-- **Storage:** Lightweight Markdown, JSON, and CSV for transparency and easy automation  
-- **Metrics:** Based on typical open and click rates from small agency campaigns  
-- **Goal:** Show a repeatable process for content that improves over time
+
+**Tools**
+- **AI Generation:** Simulated using GPT-style logic and structured prompts  
+- **CRM Integration:** Mocked through HubSpot-style JSON payloads  
+- **Data Storage:** Markdown for content, JSON for metadata, CSV for metrics  
+- **Analysis:** Manual interpretation of engagement metrics to guide next content iterations  
+
+**Assumptions**
+1. The system runs locally or in a demo environment, not a live CRM.  
+2. Campaign sends and performance data are simulated for demonstration.  
+3. Audience personas are predefined and manually segmented.  
+4. Engagement rates are modeled after realistic industry averages for small creative agencies.  
+5. The AI steps simulate workflow logic rather than calling live APIs.  
 
 ---
 
 ### 6. Key Insights
 - **Segmentation drives engagement.** Creatives respond to emotional storytelling, while Founders click when the benefit is measurable.  
-- **AI is only as smart as the prompt.** Strategy, persona clarity, and iteration still matter more than volume.  
+- **AI is only as smart as the prompt.** Strategy, persona clarity, and iteration matter more than quantity.  
 - **Automation should feel human.** The best workflows save time without sounding robotic or generic.
 
 ---
@@ -96,7 +105,7 @@ novamind-pipeline/
 - Connect OpenAI or Claude APIs for real-time content generation  
 - Automate CRM sends using HubSpot or SendGrid  
 - Build a Streamlit dashboard to visualize campaign data  
-- Use historical performance to predict the next best topic  
+- Use performance history to suggest the next best topic automatically  
 
 ---
 

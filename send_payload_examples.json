@@ -1,0 +1,24 @@
+{
+  "campaign_id": "2025-10-18-creative-automation",
+  "send_date": "2025-10-18",
+  "messages": [
+    {
+      "persona": "founders",
+      "subject": "How small agencies are cutting project time by 30%",
+      "body_path": "content/2025-10-18/nl_founders.txt",
+      "segment_filter": {"persona": "founders"}
+    },
+    {
+      "persona": "creatives",
+      "subject": "More time to create. Less time chasing tasks.",
+      "body_path": "content/2025-10-18/nl_creatives.txt",
+      "segment_filter": {"persona": "creatives"}
+    },
+    {
+      "persona": "ops",
+      "subject": "Keep every project on track — without adding new tools",
+      "body_path": "content/2025-10-18/nl_ops.txt",
+      "segment_filter": {"persona": "ops"}
+    }
+  ]
+}

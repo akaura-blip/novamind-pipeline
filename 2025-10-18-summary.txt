@@ -1,0 +1,24 @@
+Campaign: 2025-10-18-creative-automation
+
+Overview  
+This week’s “AI in Creative Automation” campaign performed strongest with our creative audience and confirmed a growing interest in workflow simplicity across all segments.
+
+Highlights  
+- Creatives had the highest open and click rates, validating that storytelling and tone resonate when it focuses on reclaiming creative time.  
+- Founders engaged well with ROI messaging but clicked less often—suggesting curiosity without full conviction.  
+- Ops Managers trailed in both metrics; their content likely needs more specificity on integrations and reliability benefits.
+
+Insights  
+- Emotion and efficiency together drive engagement; creatives connect with feeling, founders with proof.  
+- Shorter previews that frame an immediate benefit (“save 3 hours a day”) could lift opens across all segments.  
+- Technical audiences need tangible outcomes, not slogans—clarity beats cleverness.
+
+Next Experiments  
+1) Add a single visual mockup or short demo clip to the creative segment newsletter.  
+2) Test a ROI-focused subject line for founders: *“How one agency gained 6 extra billable hours a week.”*  
+3) Rewrite the Ops version to open with a real integration example (Slack + Notion + Drive).  
+
+Next Content Topics  
+- *The 5-minute brief*: turning client requests into AI-ready templates  
+- How small teams automate onboarding without losing a personal touch  
+- Designing automation workflows that still feel human

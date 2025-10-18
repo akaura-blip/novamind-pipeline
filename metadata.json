@@ -1,0 +1,13 @@
+{
+  "campaign_id": "2025-10-18-creative-automation",
+  "topic": "AI in creative automation for small agencies",
+  "personas": ["founders", "creatives", "ops"],
+  "assets": {
+    "blog": "content/2025-10-18/blog.md",
+    "newsletters": {
+      "founders": "content/2025-10-18/nl_founders.txt",
+      "creatives": "content/2025-10-18/nl_creatives.txt",
+      "ops": "content/2025-10-18/nl_ops.txt"
+    }
+  }
+}
